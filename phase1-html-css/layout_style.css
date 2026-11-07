@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+.sidebar {
+  padding: 16px;
+  width: 200px;
+  justify-content: center;
+  background-color: #ffcccc;
+}
+.article {
+  padding: 16px;
+  flex: 1;
+  justify-content: center;
+  background-color: #ccffcc;
+}
+
+.header {
+  padding: 16px;
+  text-align: center;
+  background-color: #ccccff;
+}
+
+.footer {
+  padding: 16px;
+  text-align: center;
+  background-color: #ccccff;
+}

@@ -1,0 +1,62 @@
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #f5f5dc;
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  padding: 80px;
+  border: 5px solid #eef0d1;
+  
+}
+
+h1 {
+  color: #53440f;
+  font-size: 50px;
+  font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "MS PMincho", serif;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+  font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "MS PMincho", serif;
+  color: #ffffff;
+  justify-content: center;
+  text-align: center;
+}
+
+.box {
+  padding: 40px;
+  background-color: #916522;
+  font-color: #ffffffs+;
+  font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "MS PMincho", serif;
+}
+
+.reserve {
+  background-color: #c0392b; 
+  color: #ffffff;
+  font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "MS PMincho", serif;
+  text-align: center;
+  padding: 40px; 
+}
+
+.shop-info {
+  width: 600px;  
+  max-width: 90%;  
+  margin: 0 auto;
+  font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "MS PMincho", serif;
+  text-align: center;
+}
+
+.shop-info ul {
+  list-style: none;
+  padding: 0;
+}
+
+.shop-info table {
+  margin: 0 auto;
+}

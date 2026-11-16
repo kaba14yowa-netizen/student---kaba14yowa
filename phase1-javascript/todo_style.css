@@ -1,0 +1,4 @@
+.completed{
+    text-decoration : line-through;
+    color: #090909; /* 文字色を少し薄くする場合（お好みで） */
+}

@@ -15,7 +15,7 @@ public class PriceCalculation {
         int tax = (int)(totalprice * 110 / 100);
         System.out.println("税込" + tax + "円");
 
-        int totalheight = (int)(height * count);
+        double totalheight = (double)(height * count);
         System.out.println("合計の重さ：" + totalheight + "kg");
     }
 
